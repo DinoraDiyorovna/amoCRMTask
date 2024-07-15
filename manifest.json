@@ -1,0 +1,20 @@
+{
+  "widget": {
+    "name": "GetPackageCode",
+    "description": "Widget to get package code for products",
+    "short_description": "Get package code",
+    "version": "1.0.0",
+    "interface_version": 2,
+    "init_once": false,
+    "locale": ["ru"],
+    "installation": true,
+    "support": {
+      "link": "https://example.com",
+      "email": "support@example.com"
+    }
+  },
+  "locations": ["ccard-1"],
+  "advanced": {
+    "title": "Get Package Code"
+  }
+}
